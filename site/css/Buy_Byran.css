@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+.BuyP {
+	font: 125% Oswald;
+}
+
+
+.button5:hover {
+    background-color: #555555;
+    color: white;
+}
+
+.button {
+    background-color: white;
+    color: black;
+    border: 3.5px solid #555555;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    width: 165px;
+    font: 100% Roboto;
+}
+
+.leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+}
+
+.imgtext {
+	font: 100% Oswald;
+}
+
+.inp {
+  background-color: #fafafa;
+  border:0;
+  box-shadow:0 0 4px rgba(0,0,0,0.3);
+  transition: .3s box-shadow;
+  height: 20px;
+  width: 200px;
+}
+.inp:hover {
+  box-shadow:0 0 4px rgba(0,0,0,0.5);
+}
+
+input {outline:none;}
+
+.button51 {
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+    font: 100% Roboto;
+}
+
+.button1 {
+    background-color: #000000; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
